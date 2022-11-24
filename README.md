@@ -39,6 +39,3 @@ Config files should be in legal JSON format with a similar format like
     "lang":"fr"
 } 
 ```
-
- # New features
-
