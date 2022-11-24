@@ -29,3 +29,8 @@ To run an individual test run the command ``` py ssgTests.py SSGTest.[test you w
 
 If you need to add a testing file add it inside of the testFiles. Adding tests should all be inside of the SSGtests class
 
+# Planned Features
+- [ ] Choosing Output Directory 
+ 
+- [ ] CSS support
+

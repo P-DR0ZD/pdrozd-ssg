@@ -2,4 +2,4 @@
 
 
 def printVersion():
-    raise SystemExit("pdrozd-ssg release version 0.1")
+    raise SystemExit("pdrozd-ssg release version 1.0.10")
