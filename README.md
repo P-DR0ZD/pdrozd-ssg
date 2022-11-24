@@ -13,7 +13,8 @@ Python 3
 
 # How to Install
 
-go to https://pypi.org/project/pdrozd-ssg/ or simply run the command `pip install pdrozd-ssg` to run use the command `pdrozd [with the command you want]`
+go to https://pypi.org/project/pdrozd-ssg/ or simply run the command `pip install pdrozd-ssg` 
+to run use the command `pdrozd [with the command you want]`
 
 # Commands
 
