@@ -136,8 +136,8 @@ def parseFile(arg):
             elif os.path.splitext(arg)[1] == ".md":
                 with codecs.open(fullName, "w", encoding="utf-8") as site:
                     site.write(header)
-                    # Using The markdown parser requiers the list to be in a string format so i used join
-                    site.write(markdown.markdown(lines[1:]))
+                    # Using The markdown parser requires the list to be in a string format so i used join
+                    site.write(markdown.markdown("\n".join(lines[1:])))
                     site.write(footer)  # Finishes the document with a body
                     if not site.closed:
                         site.close()
