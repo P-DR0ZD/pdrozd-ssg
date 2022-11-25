@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pdrozd-ssg"
-version = "1.0.11"
+version = "1.0.12"
 description = "P-DR0ZD-SSG"
 authors = ["P-DR0ZD <60482468+P-DR0ZD@users.noreply.github.com>"]
 license = "GNU"
