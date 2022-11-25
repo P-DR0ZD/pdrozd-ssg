@@ -27,7 +27,7 @@ The commands of pdrozd-ssg are
 
 * -i or --input this with a combanation of .txt or .md file or directory will output your files as a Static Site
   to use put in the format. e.g. <br>
-   ```pdrozd -i or --input [file.txt\text.ms] or [directory\]``` 
+   ```pdrozd -i or --input [file.txt\text.md] or [directory\]``` 
 
 * -l or --lang this at the end of the input command will allow the default language of the HTML files to change. e.g.<br>
    ```pdrozd -i or --input [file.txt\text.md] or [directory\] -l or --lang [language]```
