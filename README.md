@@ -4,9 +4,7 @@ pdrozd-ssg is a static site generator created in python
 
 # Features
  * Creates an index based on your html files created
-
  * Added JSON config file support 
- 
  * Complete Markdown Support with the Help of [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown)
 
 # Requirements
