@@ -16,6 +16,10 @@ Python 3
 go to https://pypi.org/project/pdrozd-ssg/ or simply run the command `pip install pdrozd-ssg` 
 to run use the command `pdrozd [with the command you want]`
 
+# How to Upgrade
+
+If theirs a new version run the command `pip install pdrozd-ssg --upgrade`
+
 # Commands
 
 The commands of pdrozd-ssg are
